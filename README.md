@@ -124,20 +124,6 @@ Delivered data-driven insights for better expense control and savings planning.
 
 Improved understanding of financial management through visualization and trend analysis.
 
-🧩 Repository Structure
-📂 Income_Expense_Analysis
-│
-├── 📜 1_Data_Cleaning.ipynb
-├── 📜 2_Income_Expense_Summary.ipynb
-├── 📜 3_Category_Analysis.ipynb
-├── 📜 4_Savings_Trend.ipynb
-├── 📜 5_Visualization.ipynb
-├── 📊 visuals/
-│   ├── monthly_income_expense.png
-│   ├── expense_by_category.png
-│   ├── savings_trend.png
-│   └── annual_summary.png
-└── README.md
 
 🏁 Conclusion
 
