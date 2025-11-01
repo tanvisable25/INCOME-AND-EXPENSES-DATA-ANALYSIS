@@ -1,4 +1,4 @@
-# PERSONAL-INCOME-AND-EXPENSES-DATA-ANALYSIS
+# INCOME-AND-EXPENSES-DATA-ANALYSIS
 Income & Expense Analysis (Python Project)
 
 S — Situation:
